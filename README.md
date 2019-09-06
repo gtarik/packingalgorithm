@@ -1,6 +1,6 @@
 # Packing algorithm
 
-This is an algorithm that solves the mathematical bin packing problem.
+This is an algorithm that solves the mathematical bin packing problem.(with no height/width constraints)
 
 ## How it works
 This algorithm uses the Binary Tree Bin Packing approach. It dynamically grows the rectangle in which the rectangles are supposed to be packed. 
