@@ -24,9 +24,13 @@ H W X Y
 7 10 70
 ```
 H – Height
+
 W – Width
+
 X – X-coordinate of the bottom left point of the rectangle
+
 Y – Y-coordinate of the bottom left point of the rectangle
+
 The last line represents the total Width, Height and Area of the calculated canvas.
 
 ## Authors
